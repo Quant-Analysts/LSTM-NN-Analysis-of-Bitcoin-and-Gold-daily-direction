@@ -1,4 +1,4 @@
-# LSTM-NN-Analysis-of-Bitcoin-and-Gold-daily-direction
+# LSTM Neural Networks: Analysis of Bitcoin and Gold daily direction
 
 “Alternative” currencies such as Bitcoin and Gold, have had a phenomenal run in 2020 despite the pandemic. 
 
